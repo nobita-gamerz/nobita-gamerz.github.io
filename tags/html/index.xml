@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Noobieta Gamers</title>
+    <link>https://nobita-gamerz.github.io/tags/html/</link>
+    <description>Recent content in Html on Noobieta Gamers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 May 2021 12:31:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://nobita-gamerz.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>STRUKTUR DASAR HTML</title>
+      <link>https://nobita-gamerz.github.io/post/struktur-dasar-html/</link>
+      <pubDate>Fri, 07 May 2021 12:31:52 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/post/struktur-dasar-html/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;380&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/Struktur dasar html.png&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Struktur Dasar HTML&lt;/h1&gt;
+&lt;br&gt;
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Setiap halaman HTML setidaknya memiliki struktur dasar yang terdiri dari : Tag DTD atau DOCTYPE, tag html, tag head, dan tag body. Inilah yang merupakan struktur paling dasar dari HTML, walaupun HTML tidak hanya berisi struktur tersebut.&lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MENGENAL FUNGSI BROWSER</title>
+      <link>https://nobita-gamerz.github.io/post/mengenal-fungsi-browser/</link>
+      <pubDate>Fri, 07 May 2021 00:46:23 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/post/mengenal-fungsi-browser/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/mengenal fungsi browser.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;😎 &lt;code&gt;Assalamualaikum wr.wb&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;&lt;b&gt;Mengenal Fungsi Browser&lt;/b&gt;&lt;/h1&gt;
+&lt;br&gt;
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Web Browser (atau biasa disebut browser) adalah sebuah software aplikasi untuk menerima, menampilkan, dan menerjemahkan informasi dari world wide web (wikipedia). Dan salah satu informasi itu dibuat dalam format HTML.&lt;/p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PENGENALAN DAN PENGERTIAN HTML</title>
+      <link>https://nobita-gamerz.github.io/post/pengenalan-html/</link>
+      <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/post/pengenalan-html/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/pengenalan-html.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Pengenalan HTML&lt;/h1&gt;
+&lt;br&gt;
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; HTML merupakan singkatan dari Hyper Text Markup Language. Dokumen HTML adalah file murni yang dapat di buat dengan text editor. Dokumen ini dikenal dengan Web Page. Dokumen HTML merupakan dokumen yang di sajikan dalam web browser.&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
