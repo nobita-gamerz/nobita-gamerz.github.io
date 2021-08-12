@@ -1,0 +1,63 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+<meta property="og:image" content="img-asset">
+ <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="wa-float/floating-wpp.css">
+    <script type="text/javascript" src="wa-float/floating-wpp.js"></script>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif
+        }
+    </style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NWF7JE9BFK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NWF7JE9BFK');
+</script>
+    
+    <!-- navbar2 -->
+    <link rel="stylesheet" href="/css/justify.css">
+    <link rel="stylesheet" href="css/img.css">
+    <script type="aplication/javascript" src="/js/RNavDrov.js"></script>
+ <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+    <link rel="stylesheet" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:100,200,300,400' rel='stylesheet' type='text/css'>
+    <!-- build:js modernizr.touch.js -->
+    <script type="aplication/javascript" src='{{"dist/lib/modernizr.touch.js" | absURL }}'></script>
+    <!-- endbuild -->
+
+    <link href="index.css" rel="stylesheet">
+    <!-- build:css mfb.css -->
+    <link href='{{"dist/mfb.css" | absURL}}' rel="stylesheet"/>
+    <!-- endbuild -->
+ <!-- build:js mfb.js -->
+  <script type="aplication/javascript" src='{{"dist/mfb.js" | absURL}} '></script>
+  <!-- endbuild -->
+    <script type="application/javascript" src='{{ "js/theme-mode.js" | absURL }}'></script>
+    <link rel="stylesheet" href='{{ "css/frameworks.min.css" | absURL }}' />
+    <link rel="stylesheet" href='{{ "css/github.min.css" | absURL }}' />
+    <link rel="stylesheet" href='{{ "css/github-style.css" | absURL }}' />
+    <link rel="stylesheet" href='{{ "css/light.css" | absURL }}' />
+    <link rel="stylesheet" href='{{ "css/dark.css" | absURL }}' />
+    <link rel="stylesheet" href='{{ "css/syntax.css" | absURL }}' />
+    <title>{{ if .IsHome }}{{ else }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
+    {{ if .Site.Params.favicon }}
+    <link rel="icon" type="image/x-icon" href='{{ .Site.Params.favicon  }}'>
+    {{ else }}
+    <link rel="icon" type="image/x-icon" href='{{ "ico/favicon.ico" | absURL }}'>
+    {{ end }}
+    <meta name="theme-color" content="#1e2327">
+<link rel="icon" href="favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+    <!-- Extended head section-->
+    {{ partial "extended_head.html" . }}
+    
+
+   
+<script id="chatBroEmbedCode">/* Chatbro Widget Embed Code Start */function ChatbroLoader(chats,async){async=!1!==async;var params={embedChatsParameters:chats instanceof Array?chats:[chats],lang:navigator.language||navigator.userLanguage,needLoadCode:'undefined'==typeof Chatbro,embedParamsVersion:localStorage.embedParamsVersion,chatbroScriptVersion:localStorage.chatbroScriptVersion},xhr=new XMLHttpRequest;xhr.withCredentials=!0,xhr.onload=function(){eval(xhr.responseText)},xhr.onerror=function(){console.error('Chatbro loading error')},xhr.open('GET','//www.chatbro.com/embed.js?'+btoa(unescape(encodeURIComponent(JSON.stringify(params)))),async),xhr.send()}/* Chatbro Widget Embed Code End */ChatbroLoader({encodedChatId: '68EuF'});</script>
+</head>
