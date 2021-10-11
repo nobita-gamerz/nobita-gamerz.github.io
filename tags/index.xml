@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Noobieta Gamers</title>
@@ -6,40 +6,9 @@
     <description>Recent content in Tags on Noobieta Gamers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 14:12:17 +0000</lastBuildDate>
-    
-	<atom:link href="https://nobita-gamerz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 21 Sep 2021 14:40:22 +0000</lastBuildDate><atom:link href="https://nobita-gamerz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aboutme</title>
-      <link>https://nobita-gamerz.github.io/tags/aboutme/</link>
-      <pubDate>Thu, 22 Apr 2021 14:12:17 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/aboutme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Andrid Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/andrid-offline/</link>
-      <pubDate>Wed, 19 May 2021 13:15:09 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/andrid-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://nobita-gamerz.github.io/tags/android/</link>
-      <pubDate>Fri, 11 Jun 2021 09:14:29 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android Offline</title>
+      <title>android-offline</title>
       <link>https://nobita-gamerz.github.io/tags/android-offline/</link>
       <pubDate>Tue, 21 Sep 2021 14:40:22 +0000</pubDate>
       
@@ -48,124 +17,7 @@
     </item>
     
     <item>
-      <title>Aot</title>
-      <link>https://nobita-gamerz.github.io/tags/aot/</link>
-      <pubDate>Tue, 27 Apr 2021 17:47:00 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/aot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aplikasi</title>
-      <link>https://nobita-gamerz.github.io/tags/aplikasi/</link>
-      <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/aplikasi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artikel</title>
-      <link>https://nobita-gamerz.github.io/tags/artikel/</link>
-      <pubDate>Wed, 07 Jul 2021 14:02:06 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/artikel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Basket Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/basket-offline/</link>
-      <pubDate>Tue, 25 May 2021 04:34:52 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/basket-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clash Royale</title>
-      <link>https://nobita-gamerz.github.io/tags/clash-royale/</link>
-      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/clash-royale/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clash Royale Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/clash-royale-offline/</link>
-      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/clash-royale-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clash of Clan Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/clash-of-clan-offline/</link>
-      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/clash-of-clan-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coc Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/coc-offline/</link>
-      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/coc-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coc Offline Mode Save</title>
-      <link>https://nobita-gamerz.github.io/tags/coc-offline-mode-save/</link>
-      <pubDate>Sat, 15 May 2021 08:09:53 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/coc-offline-mode-save/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coc Offline V1</title>
-      <link>https://nobita-gamerz.github.io/tags/coc-offline-v1/</link>
-      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/coc-offline-v1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cod Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/cod-offline/</link>
-      <pubDate>Wed, 05 May 2021 13:26:05 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/cod-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cod Offline Part 1</title>
-      <link>https://nobita-gamerz.github.io/tags/cod-offline-part-1/</link>
-      <pubDate>Sat, 01 May 2021 10:58:54 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/cod-offline-part-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game Android Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/game-android-offline/</link>
-      <pubDate>Mon, 10 May 2021 16:12:19 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/game-android-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games</title>
+      <title>games</title>
       <link>https://nobita-gamerz.github.io/tags/games/</link>
       <pubDate>Tue, 21 Sep 2021 14:40:22 +0000</pubDate>
       
@@ -174,16 +26,7 @@
     </item>
     
     <item>
-      <title>Github</title>
-      <link>https://nobita-gamerz.github.io/tags/github/</link>
-      <pubDate>Sat, 24 Apr 2021 15:24:47 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gta</title>
+      <title>GTA</title>
       <link>https://nobita-gamerz.github.io/tags/gta/</link>
       <pubDate>Tue, 21 Sep 2021 14:40:22 +0000</pubDate>
       
@@ -192,11 +35,20 @@
     </item>
     
     <item>
-      <title>Html</title>
-      <link>https://nobita-gamerz.github.io/tags/html/</link>
-      <pubDate>Fri, 07 May 2021 12:31:52 +0000</pubDate>
+      <title>sport games</title>
+      <link>https://nobita-gamerz.github.io/tags/sport-games/</link>
+      <pubDate>Tue, 21 Sep 2021 14:40:22 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/html/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/sport-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artikel</title>
+      <link>https://nobita-gamerz.github.io/tags/artikel/</link>
+      <pubDate>Wed, 07 Jul 2021 14:02:06 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/artikel/</guid>
       <description></description>
     </item>
     
@@ -210,7 +62,7 @@
     </item>
     
     <item>
-      <title>Idle Offline Android</title>
+      <title>idle offline android</title>
       <link>https://nobita-gamerz.github.io/tags/idle-offline-android/</link>
       <pubDate>Wed, 07 Jul 2021 14:02:06 +0000</pubDate>
       
@@ -219,43 +71,7 @@
     </item>
     
     <item>
-      <title>Islamic</title>
-      <link>https://nobita-gamerz.github.io/tags/islamic/</link>
-      <pubDate>Mon, 03 May 2021 11:15:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/islamic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://nobita-gamerz.github.io/tags/jekyll/</link>
-      <pubDate>Fri, 23 Apr 2021 21:08:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>King Crystal Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/king-crystal-offline/</link>
-      <pubDate>Fri, 02 Jul 2021 17:08:38 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/king-crystal-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://nobita-gamerz.github.io/tags/linux/</link>
-      <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mafia Idle Offline</title>
+      <title>mafia idle offline</title>
       <link>https://nobita-gamerz.github.io/tags/mafia-idle-offline/</link>
       <pubDate>Fri, 02 Jul 2021 17:18:32 +0000</pubDate>
       
@@ -264,16 +80,16 @@
     </item>
     
     <item>
-      <title>Materi</title>
-      <link>https://nobita-gamerz.github.io/tags/materi/</link>
-      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
+      <title>king crystal offline</title>
+      <link>https://nobita-gamerz.github.io/tags/king-crystal-offline/</link>
+      <pubDate>Fri, 02 Jul 2021 17:08:38 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/materi/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/king-crystal-offline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Moba Offline</title>
+      <title>moba offline</title>
       <link>https://nobita-gamerz.github.io/tags/moba-offline/</link>
       <pubDate>Fri, 02 Jul 2021 17:08:38 +0000</pubDate>
       
@@ -282,88 +98,43 @@
     </item>
     
     <item>
-      <title>Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/offline/</link>
-      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
+      <title>clash royale</title>
+      <link>https://nobita-gamerz.github.io/tags/clash-royale/</link>
+      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/offline/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/clash-royale/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pemrograman</title>
-      <link>https://nobita-gamerz.github.io/tags/pemrograman/</link>
-      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
+      <title>clash royale offline</title>
+      <link>https://nobita-gamerz.github.io/tags/clash-royale-offline/</link>
+      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/pemrograman/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/clash-royale-offline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Penganalan Html</title>
-      <link>https://nobita-gamerz.github.io/tags/penganalan-html/</link>
-      <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
+      <title>coc offline</title>
+      <link>https://nobita-gamerz.github.io/tags/coc-offline/</link>
+      <pubDate>Thu, 01 Jul 2021 13:06:39 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/penganalan-html/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/coc-offline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pengertian Html</title>
-      <link>https://nobita-gamerz.github.io/tags/pengertian-html/</link>
-      <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
+      <title>Android</title>
+      <link>https://nobita-gamerz.github.io/tags/android/</link>
+      <pubDate>Fri, 11 Jun 2021 09:14:29 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/pengertian-html/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Plant vs Zombie</title>
-      <link>https://nobita-gamerz.github.io/tags/plant-vs-zombie/</link>
-      <pubDate>Wed, 05 May 2021 00:02:16 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/plant-vs-zombie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plant vs Zombie 3 Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/plant-vs-zombie-3-offline/</link>
-      <pubDate>Wed, 05 May 2021 00:02:16 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/plant-vs-zombie-3-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pubg Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/pubg-offline/</link>
-      <pubDate>Wed, 19 May 2021 13:15:09 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/pubg-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://nobita-gamerz.github.io/tags/python/</link>
-      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rpg 2d Offline</title>
-      <link>https://nobita-gamerz.github.io/tags/rpg-2d-offline/</link>
-      <pubDate>Tue, 11 May 2021 14:36:26 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/rpg-2d-offline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shooter</title>
+      <title>shooter</title>
       <link>https://nobita-gamerz.github.io/tags/shooter/</link>
       <pubDate>Fri, 11 Jun 2021 09:14:29 +0000</pubDate>
       
@@ -372,7 +143,115 @@
     </item>
     
     <item>
-      <title>Software</title>
+      <title>zombie</title>
+      <link>https://nobita-gamerz.github.io/tags/zombie/</link>
+      <pubDate>Fri, 11 Jun 2021 09:14:29 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/zombie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>basket offline</title>
+      <link>https://nobita-gamerz.github.io/tags/basket-offline/</link>
+      <pubDate>Tue, 25 May 2021 04:34:52 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/basket-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>andrid offline</title>
+      <link>https://nobita-gamerz.github.io/tags/andrid-offline/</link>
+      <pubDate>Wed, 19 May 2021 13:15:09 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/andrid-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PUBG OFFLINE</title>
+      <link>https://nobita-gamerz.github.io/tags/pubg-offline/</link>
+      <pubDate>Wed, 19 May 2021 13:15:09 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/pubg-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coc offline mode save</title>
+      <link>https://nobita-gamerz.github.io/tags/coc-offline-mode-save/</link>
+      <pubDate>Sat, 15 May 2021 08:09:53 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/coc-offline-mode-save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>materi</title>
+      <link>https://nobita-gamerz.github.io/tags/materi/</link>
+      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/materi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pemrograman</title>
+      <link>https://nobita-gamerz.github.io/tags/pemrograman/</link>
+      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/pemrograman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://nobita-gamerz.github.io/tags/python/</link>
+      <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rpg 2D offline</title>
+      <link>https://nobita-gamerz.github.io/tags/rpg-2d-offline/</link>
+      <pubDate>Tue, 11 May 2021 14:36:26 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/rpg-2d-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game android offline</title>
+      <link>https://nobita-gamerz.github.io/tags/game-android-offline/</link>
+      <pubDate>Mon, 10 May 2021 16:12:19 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/game-android-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aplikasi</title>
+      <link>https://nobita-gamerz.github.io/tags/aplikasi/</link>
+      <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/aplikasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://nobita-gamerz.github.io/tags/linux/</link>
+      <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
       <link>https://nobita-gamerz.github.io/tags/software/</link>
       <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
       
@@ -381,16 +260,7 @@
     </item>
     
     <item>
-      <title>Sport Games</title>
-      <link>https://nobita-gamerz.github.io/tags/sport-games/</link>
-      <pubDate>Tue, 21 Sep 2021 14:40:22 +0000</pubDate>
-      
-      <guid>https://nobita-gamerz.github.io/tags/sport-games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>System Operasi</title>
+      <title>system-operasi</title>
       <link>https://nobita-gamerz.github.io/tags/system-operasi/</link>
       <pubDate>Mon, 10 May 2021 11:43:39 +0000</pubDate>
       
@@ -399,7 +269,97 @@
     </item>
     
     <item>
-      <title>Video</title>
+      <title>html</title>
+      <link>https://nobita-gamerz.github.io/tags/html/</link>
+      <pubDate>Fri, 07 May 2021 12:31:52 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clash of clan offline</title>
+      <link>https://nobita-gamerz.github.io/tags/clash-of-clan-offline/</link>
+      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/clash-of-clan-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coc offline v1</title>
+      <link>https://nobita-gamerz.github.io/tags/coc-offline-v1/</link>
+      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/coc-offline-v1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>offline</title>
+      <link>https://nobita-gamerz.github.io/tags/offline/</link>
+      <pubDate>Thu, 06 May 2021 17:52:21 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penganalan HTML</title>
+      <link>https://nobita-gamerz.github.io/tags/penganalan-html/</link>
+      <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/penganalan-html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengertian HTML</title>
+      <link>https://nobita-gamerz.github.io/tags/pengertian-html/</link>
+      <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/pengertian-html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COD OFFLINE</title>
+      <link>https://nobita-gamerz.github.io/tags/cod-offline/</link>
+      <pubDate>Wed, 05 May 2021 13:26:05 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/cod-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plant vs zombie</title>
+      <link>https://nobita-gamerz.github.io/tags/plant-vs-zombie/</link>
+      <pubDate>Wed, 05 May 2021 00:02:16 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/plant-vs-zombie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plant vs zombie 3 offline</title>
+      <link>https://nobita-gamerz.github.io/tags/plant-vs-zombie-3-offline/</link>
+      <pubDate>Wed, 05 May 2021 00:02:16 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/plant-vs-zombie-3-offline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>islamic</title>
+      <link>https://nobita-gamerz.github.io/tags/islamic/</link>
+      <pubDate>Mon, 03 May 2021 11:15:39 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/islamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
       <link>https://nobita-gamerz.github.io/tags/video/</link>
       <pubDate>Mon, 03 May 2021 11:15:39 +0000</pubDate>
       
@@ -408,7 +368,34 @@
     </item>
     
     <item>
-      <title>Website</title>
+      <title>COD Offline Part 1</title>
+      <link>https://nobita-gamerz.github.io/tags/cod-offline-part-1/</link>
+      <pubDate>Sat, 01 May 2021 10:58:54 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/cod-offline-part-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AOT</title>
+      <link>https://nobita-gamerz.github.io/tags/aot/</link>
+      <pubDate>Tue, 27 Apr 2021 17:47:00 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/aot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://nobita-gamerz.github.io/tags/github/</link>
+      <pubDate>Sat, 24 Apr 2021 15:24:47 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
       <link>https://nobita-gamerz.github.io/tags/website/</link>
       <pubDate>Sat, 24 Apr 2021 15:24:47 +0000</pubDate>
       
@@ -417,11 +404,20 @@
     </item>
     
     <item>
-      <title>Zombie</title>
-      <link>https://nobita-gamerz.github.io/tags/zombie/</link>
-      <pubDate>Fri, 11 Jun 2021 09:14:29 +0000</pubDate>
+      <title>jekyll</title>
+      <link>https://nobita-gamerz.github.io/tags/jekyll/</link>
+      <pubDate>Fri, 23 Apr 2021 21:08:39 +0000</pubDate>
       
-      <guid>https://nobita-gamerz.github.io/tags/zombie/</guid>
+      <guid>https://nobita-gamerz.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aboutme</title>
+      <link>https://nobita-gamerz.github.io/tags/aboutme/</link>
+      <pubDate>Thu, 22 Apr 2021 14:12:17 +0000</pubDate>
+      
+      <guid>https://nobita-gamerz.github.io/tags/aboutme/</guid>
       <description></description>
     </item>
     

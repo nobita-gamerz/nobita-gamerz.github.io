@@ -1,29 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pemrograman on Noobieta Gamers</title>
+    <title>pemrograman on Noobieta Gamers</title>
     <link>https://nobita-gamerz.github.io/tags/pemrograman/</link>
-    <description>Recent content in Pemrograman on Noobieta Gamers</description>
+    <description>Recent content in pemrograman on Noobieta Gamers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 16:45:12 +0000</lastBuildDate>
-    
-	<atom:link href="https://nobita-gamerz.github.io/tags/pemrograman/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 11 May 2021 16:45:12 +0000</lastBuildDate><atom:link href="https://nobita-gamerz.github.io/tags/pemrograman/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PENGENALAN PYTHON</title>
       <link>https://nobita-gamerz.github.io/post/pengenalan-python/</link>
       <pubDate>Tue, 11 May 2021 16:45:12 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/pengenalan-python/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://www.anbidev.com/post/python-intro.png&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://www.anbidev.com/post/python-intro.png&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;PENGENALAN PYTHON&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt;PENGENALAN PYTHON&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Yooosh genk next share sekarang kita belajar mengenal Bahasa pemrograman python, ga kenal maka tak sayang hahaha 😂, pengenalan aja dulu kita sama si python ini ya ga he..&lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Yooosh genk next share sekarang kita belajar mengenal Bahasa pemrograman python, ga kenal maka tak sayang hahaha 😂, pengenalan aja dulu kita sama si python ini ya ga he..&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,13 +26,11 @@
       <pubDate>Fri, 07 May 2021 12:31:52 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/struktur-dasar-html/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;380&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/Struktur dasar html.png&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;380&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/Struktur dasar html.png&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Struktur Dasar HTML&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt;Struktur Dasar HTML&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Setiap halaman HTML setidaknya memiliki struktur dasar yang terdiri dari : Tag DTD atau DOCTYPE, tag html, tag head, dan tag body. Inilah yang merupakan struktur paling dasar dari HTML, walaupun HTML tidak hanya berisi struktur tersebut.&lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Setiap halaman HTML setidaknya memiliki struktur dasar yang terdiri dari : Tag DTD atau DOCTYPE, tag html, tag head, dan tag body. Inilah yang merupakan struktur paling dasar dari HTML, walaupun HTML tidak hanya berisi struktur tersebut.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,13 +39,11 @@
       <pubDate>Fri, 07 May 2021 11:07:49 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/memilih-aplikasi-editor/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/text-editor.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/text-editor.jpeg&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Memilih Aplikasi Editor HTML&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt;Memilih Aplikasi Editor HTML&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Hello genk saya kembali lagi, kali ini saya akan share munkin lebih tepatnya tips-tips memilih text editor , ok sebelum kita memilih aplikasi atau software text editor perlu kita perhatikan terlebih dahulu platform atau Operasi System apa yang kita gunakan contoh : bila kita pengguna windows carilah text editor untuk windows, bila kita pengguna linux carilah text editor untuk linux, dan bila kita pengguna android carilah text editor untuk android, ingat ya sebelum kita memilih text editor cek dulu system operasi apa yang kita gunakan!&lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Hello genk saya kembali lagi, kali ini saya akan share munkin lebih tepatnya tips-tips memilih text editor , ok sebelum kita memilih aplikasi atau software text editor perlu kita perhatikan terlebih dahulu platform atau Operasi System apa yang kita gunakan contoh : bila kita pengguna windows carilah text editor untuk windows, bila kita pengguna linux carilah text editor untuk linux, dan bila kita pengguna android carilah text editor untuk android, ingat ya sebelum kita memilih text editor cek dulu system operasi apa yang kita gunakan!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -62,13 +52,11 @@
       <pubDate>Fri, 07 May 2021 00:46:23 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/mengenal-fungsi-browser/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/mengenal fungsi browser.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/mengenal fungsi browser.jpeg&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualaikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;&lt;b&gt;Mengenal Fungsi Browser&lt;/b&gt;&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt;&lt;b&gt;Mengenal Fungsi Browser&lt;/b&gt;&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Web Browser (atau biasa disebut browser) adalah sebuah software aplikasi untuk menerima, menampilkan, dan menerjemahkan informasi dari world wide web (wikipedia). Dan salah satu informasi itu dibuat dalam format HTML.&lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Web Browser (atau biasa disebut browser) adalah sebuah software aplikasi untuk menerima, menampilkan, dan menerjemahkan informasi dari world wide web (wikipedia). Dan salah satu informasi itu dibuat dalam format HTML.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,12 +65,11 @@
       <pubDate>Wed, 05 May 2021 14:39:28 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/pengenalan-html/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/pengenalan-html.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Pengenalan HTML&lt;/h1&gt;
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/pengenalan-html.jpeg&#34;&gt;&lt;/center&gt;
+&lt;h1 align=&#34;center&#34;&gt;Pengenalan HTML&lt;/h1&gt;
 &lt;br&gt;
 &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; HTML merupakan singkatan dari Hyper Text Markup Language. Dokumen HTML adalah file murni yang dapat di buat dengan text editor. Dokumen ini dikenal dengan Web Page. Dokumen HTML merupakan dokumen yang di sajikan dalam web browser.&lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;</description>
+&lt;br&gt;</description>
     </item>
     
     <item>
@@ -91,16 +78,13 @@
       <pubDate>Tue, 04 May 2021 23:04:47 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/pemrograman-dasar/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/Pemrograman-Dasar.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/Pemrograman-Dasar.jpeg&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualaikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;Pengertian Pemrograman Dasar&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Pemrograman adalah proses menulis, menguji, memperbaiki (Debug), dan memelihara kode yang membangun suatu program komputer. Kode ini di tulis dnegan bahasa pemrograman. Tujuan dari pemrograman adalah untuk memuat suatu program yang dapat melakukan suatu perhitungan atau &amp;lsquo;pekerjaan&amp;rsquo; sesuai dengan keinginan si pemrogram. Untuk melakukan pemrograman, diperlukan keterampilan dalam algoritma, logika, bahasa pemrograman, dan pada banyak kasus, pengetahuan-pengetahuan lain seperti matematika.&lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;</description>
+&lt;h1 align=&#34;center&#34;&gt;Pengertian Pemrograman Dasar&lt;/h1&gt;
+&lt;br&gt;
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Pemrograman adalah proses menulis, menguji, memperbaiki (Debug), dan memelihara kode yang membangun suatu program komputer. Kode ini di tulis dnegan bahasa pemrograman. Tujuan dari pemrograman adalah untuk memuat suatu program yang dapat melakukan suatu perhitungan atau &#39;pekerjaan&#39; sesuai dengan keinginan si pemrogram. Untuk melakukan pemrograman, diperlukan keterampilan dalam algoritma, logika, bahasa pemrograman, dan pada banyak kasus, pengetahuan-pengetahuan lain seperti matematika.&lt;/p&gt;
+&lt;br&gt;</description>
     </item>
     
     <item>
@@ -110,13 +94,11 @@
       
       <guid>https://nobita-gamerz.github.io/post/pemrograman-dasar-newbie/</guid>
       <description>&lt;p&gt;😲 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/pemrograman-noob.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;
+&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/pemrograman-noob.jpeg&#34;&gt;&lt;/center&gt;
+&lt;html&gt;
 &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Yoosh genk, yang baca tulisan ini melalui search engine seperti Google pasti sudah banyak baca kesana-sini. Jadi langsung saja membahas ke intinya ya. Oh ya, sebelum mulai perlu ditekankan bahwa saya menulis berdasarkan analisa pengalaman pribadi.
 Belajar bahasa pemrograman berarti anda siap untuk berkomunikasi dengan mesin
-Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembahasan ini kalian pembaca masih noob seperti saya juga ya he.. ya mengenai pemrograman. Jadi bagaimana kita harus Memulai?&lt;/p&gt;&lt;/p&gt;</description>
+Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembahasan ini kalian pembaca masih noob seperti saya juga ya he.. ya mengenai pemrograman. Jadi bagaimana kita harus Memulai?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -125,16 +107,11 @@ Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembaha
       <pubDate>Fri, 30 Apr 2021 17:37:36 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/andrax-os/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://cdn.cyberpunk.rs/wp-content/uploads/2018/10/andrax_bg.jpg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://cdn.cyberpunk.rs/wp-content/uploads/2018/10/andrax_bg.jpg&#34;&gt;&lt;/center&gt;
+&lt;html&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
 &lt;h1 align=&#34;center&#34;&gt; ANDRAX Operation System&lt;/h1&gt;
-
 &lt;p&gt;😎 &lt;code&gt;Tentang Andrax&lt;/code&gt;&lt;/p&gt;
-
 &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Hello bro kali ini saya akan share tentang OS Andrax ya sekilas dari saya seiring waktu berjalan zaman pun kian berganti perkembangan teknologi semakin pesat begitu pula di bidang sistem operasi linux banyak sekali distribusi linux yang semakin berkembang hingga saat ini sistem operasi linux pun bisa kita nikmati di handphone Android dari termux,debian,ubuntu,alpine linux ,manjaro ,kali linux dan Andrax.nah kali ini kita akan membahas tentang andrax os!.&lt;/p&gt;</description>
     </item>
     
@@ -144,15 +121,12 @@ Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembaha
       <pubDate>Sat, 24 Apr 2021 15:24:47 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/membuat-web-digithub/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/github-pages.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/github-pages.jpeg&#34;&gt;&lt;/center&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;&lt;strong&gt;Cara Membuat Website di Github&lt;/strong&gt;&lt;/h1&gt;
+&lt;html&gt;
+&lt;h1 align=&#34;center&#34;&gt;&lt;strong&gt;Cara Membuat Website di Github&lt;/strong&gt;&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp;Halo guys ok next share lagi kali ini saya akan share cara membuat blog di github dan sebelumnya yang belum tau apa itu github bisa di cek di marih 😎👉 &lt;a href=&#34;https://nobita-gamerz.github.io/post/pengenalan-github/&#34;&gt;Apa itu github..?&lt;/a&gt; .Nah sekarang kita akan membuat blog/website sederhana menggunakan hosting github..yup namun perlu di ingat cara ini adalah membuat web dari nol he&amp;hellip;😜 namun langsung di onlinekan projectnya&amp;hellip;yaa harusnya offline dulu yaa&amp;hellip;baru belajar di hostingkan he&amp;hellip;😜&lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp;Halo guys ok next share lagi kali ini saya akan share cara membuat blog di github dan sebelumnya yang belum tau apa itu github bisa di cek di marih 😎👉 &lt;a href=&#34;https://nobita-gamerz.github.io/post/pengenalan-github/&#34;&gt;Apa itu github..?&lt;/a&gt; .Nah sekarang kita akan membuat blog/website sederhana menggunakan hosting github..yup namun perlu di ingat cara ini adalah membuat web dari nol he...😜 namun langsung di onlinekan projectnya...yaa harusnya offline dulu yaa...baru belajar di hostingkan he...😜&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -161,14 +135,11 @@ Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembaha
       <pubDate>Fri, 23 Apr 2021 22:28:59 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/pengenalan-github/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/github.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/github.jpeg&#34;&gt;&lt;/center&gt;
+&lt;html&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-  &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Yoosh guys wellcome again to my site ok kali ini kita bakal share apa itu github he&amp;hellip;🤓 lumayan nambah wawasan and lumayan buat informasi&amp;hellip;&lt;/p&gt;&lt;/p&gt;</description>
+&lt;br&gt;
+  &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Yoosh guys wellcome again to my site ok kali ini kita bakal share apa itu github he...🤓 lumayan nambah wawasan and lumayan buat informasi...&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -177,15 +148,12 @@ Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembaha
       <pubDate>Fri, 23 Apr 2021 22:18:55 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/pengenalan-website/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; haight=&#34;200&#34;src=&#34;https://nobita-gamerz.github.io/img-asset/pengenalan-web.png&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; haight=&#34;200&#34;src=&#34;https://nobita-gamerz.github.io/img-asset/pengenalan-web.png&#34;&gt;&lt;/center&gt;
+&lt;html&gt;
 &lt;p&gt;🤓&lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt;PENGENALAN WEBSITE&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt;PENGENALAN WEBSITE&lt;/h1&gt;
 &lt;br&gt;
-&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp;Halo guys kalini kita akan membahas atau ngeshare apa itu website ya sesuai dengan judulnya dan seperti yang telah jadi latar belakang pembuatan blogs ini yaitu untuk data pribadi saya dan membiasakan dengan code serta membiasakan saya untuk menulis dan membaca he..  oknkali ini kita akan membahas tema &lt;em&gt;Pengenalan website&lt;/em&gt; &lt;/p&gt;&lt;/p&gt;</description>
+&lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp;Halo guys kalini kita akan membahas atau ngeshare apa itu website ya sesuai dengan judulnya dan seperti yang telah jadi latar belakang pembuatan blogs ini yaitu untuk data pribadi saya dan membiasakan dengan code serta membiasakan saya untuk menulis dan membaca he..  oknkali ini kita akan membahas tema *Pengenalan website* &lt;/p&gt;</description>
     </item>
     
     <item>
@@ -194,16 +162,13 @@ Paragraf terakhir sebelum mulai. Ok genk sesuai judul, saya anggap dalam pembaha
       <pubDate>Fri, 23 Apr 2021 21:08:39 +0000</pubDate>
       
       <guid>https://nobita-gamerz.github.io/post/jekyll/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/jekyll.jpeg&#34;&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;html&gt;&lt;/p&gt;
-
+      <description>&lt;center&gt;&lt;img width=&#34;300&#34; height=&#34;200&#34; src=&#34;https://nobita-gamerz.github.io/img-asset/jekyll.jpeg&#34;&gt;&lt;/center&gt;
+&lt;html&gt;
 &lt;p&gt;😎 &lt;code&gt;Assalamualikum wr.wb&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;h1 align=&#34;center&#34;&gt; &lt;code&gt;Membuat Web Dengan Jekyll&lt;/code&gt;&lt;/h1&gt;
+&lt;h1 align=&#34;center&#34;&gt; `Membuat Web Dengan Jekyll`&lt;/h1&gt;
 &lt;br&gt;
 &lt;p class=&#34;justify&#34;&gt;&amp;nbsp; &amp;nbsp; Pada artikel kali ini, kita akan membahas cara tercepat untuk membuat blog dengan Jekyll,  menghindari masalah umum ketika menggunakan Jekyll, dan masih banyak lagi.&lt;/p&gt;
-&lt;br&gt;&lt;/p&gt;</description>
+&lt;br&gt;</description>
     </item>
     
   </channel>
