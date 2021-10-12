@@ -23,9 +23,47 @@ color: green;
  <link rel="stylesheet" href="https://free.shiba.limited/assets/css/home/main.min.css"> 
  <link href="https://free.shiba.limited/assets/css/icons.min.css?v=4.3.1" rel="stylesheet" type="text/css">  
  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    
+
+<!--Preloader-->
+    <style type="text/css">
+    .preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+      background-color: #030009;
+    }
+    .preloader .loading {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%,-50%);
+      font: 14px arial;
+    }
+    </style>
+<script>
+
+var delay = 10000;
+
+$(document).ready(function() {
+    setTimeout(function(){
+        $(".preloader .loading").hide();
+        $(".preloader").hide();
+    },delay);
+});
+    </script>    
 </head>
 <body>
+<div class="preloader">
+      <div class="loading">
+        <img src="/img-asset/logo.png" width="80">
+<br>
+        <img src="/img-asset/img-preloader/sharingan.gif" width="80">
+        <p>Harap Tunggu</p>
+      </div>
+    </div>
      <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e3f2fd;">
   <a class="navbar-brand" href="#"> <img src="https://free.shiba.limited/assets/images/logo.png" alt="logo" class="img-fluid" style="max-width: 50px;"><font style="color:white"><b> Ninja Kakashi Hatikuu</b></font></a> 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
