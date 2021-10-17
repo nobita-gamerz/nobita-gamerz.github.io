@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
 <!-- Smartsupp Live Chat script -->
 <script type="text/javascript">
 var _smartsupp = _smartsupp || {};
@@ -58,9 +56,54 @@ href="https://feyorra.top/public/assets/css/scrollspyNav.css" rel="stylesheet"
 type="text/css" /> <script 
 src="https://feyorra.top/public/assets/js/libs/jquery-3.1.1.min.js"></script> 
 
+<!--Preloader-->
+    <style type="text/css">
+    .preloader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 9999;
+      background-color: #030009;
+    }
+    .preloader .loading {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%,-50%);
+      font: 14px arial;
+    }
+    </style>
+
+<script>
+
+var delay = 10000;
+
+$(document).ready(function() {
+    setTimeout(function(){
+        $(".preloader .loading").hide();
+        $(".preloader").hide();
+    },delay);
+});
+    </script>
+<audio autoplay="true" autostart="true">
+    <source src="/mp3/Nightcore_-_Ghost_Town(256k).mp3" type="audio/mp3" allow="autoplay">
+</audio>
 
 </head> 
-<body> <div style="overflow: hidden;"> <div class="header-container fixed-top"> <header 
+<body> 
+<div class="preloader">
+      <div class="loading">
+       <center> <img src="/img-asset/logo.png" width="80"></center>
+<br>
+       <center> <img src="/img-asset/img-preloader/sharingan.gif" width="80"></center>
+ <br>
+      <center> <p style="color:white">   Loading Coy 😁....</p></center>
+      </div>
+    </div>
+
+<div style="overflow: hidden;"> <div class="header-container fixed-top"> <header 
 class="header navbar navbar-expand-sm"> <ul class="navbar-item theme-brand flex-row 
 text-center"> <li class="nav-item theme-logo"> <a href="https://feyorra.top/"> <img 
 src="https://free.shiba.limited/assets/images/logo.png" class="navbar-logo" alt="logo"> 
@@ -94,6 +137,7 @@ class="page-header"> <nav class="breadcrumb-one" aria-label="breadcrumb"> <ol
 class="breadcrumb"> <li class="breadcrumb-item"><a 
 href="javascript:void(0);">Kakashi</a></li> <li class="breadcrumb-item active" 
 aria-current="page"><span>Faucet List</span></li> </ol> </nav> </div> </li> </ul> 
+
 </header> </div> <div class="main-container" id="container"> <div class="overlay"></div> 
 <div class="search-overlay"></div> <div class="sidebar-wrapper sidebar-theme"> <nav 
 id="sidebar"> <div class="shadow-bottom"></div> <ul class="list-unstyled 
@@ -284,6 +328,13 @@ border="0" /></a></center>
 </div>
 </div>
 </div>
+   <!-- preloader JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.5.1.slim.min.js"></script>
+    <script src="/js/popper.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+   <!--end preloader js-->
+
 <script src="https://feyorra.top/public/bootstrap/js/popper.min.js"></script>
 <script src="https://feyorra.top/public/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://feyorra.top/public/plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
